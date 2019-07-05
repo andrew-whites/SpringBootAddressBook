@@ -1,0 +1,9 @@
+com\example\addressBook\entities\QEntryEntity.class
+com\example\addressBook\predicate\EntryPredicate.class
+com\example\addressBook\entities\EntryEntity.class
+com\example\addressBook\predicate\OptionalBooleanBuilder.class
+com\example\addressBook\AddressBookApplication.class
+com\example\addressBook\models\ContactInfo.class
+com\example\addressBook\models\Entry.class
+com\example\addressBook\controllers\AddressBookController.class
+com\example\addressBook\models\Address.class
